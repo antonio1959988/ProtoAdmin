@@ -1,0 +1,3 @@
+{"_id":{"$oid":"65f0e03a9330d8f614f9a88b"},"nombre":"Antonio","apellido":"Torres","empresa":"Milenio","email":"correo@correo.com","telefono":"5343232354","__v":0}
+{"_id":{"$oid":"65f1f27a88e6207b7f791c1c"},"nombre":"Luis","apellido":"Miguel","empresa":"Televisa","email":"luismi@gmail.com","telefono":"8247738232","__v":0}
+{"_id":{"$oid":"65f4a50eee27466035fb3e71"},"nombre":"AntonioEDIT","apellido":"Luna","empresa":"SoftService","email":"antonio.torres0@mileerasdnio.com","telefono":"54554434","__v":0}

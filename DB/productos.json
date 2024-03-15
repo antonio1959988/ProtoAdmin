@@ -1,0 +1,11 @@
+{"_id":{"$oid":"65f4a0b306608918ff77f12c"},"nombre":"Camisa VueJs","precio":250,"imagen":"fJYn7ZDDM.jpeg","__v":0}
+{"_id":{"$oid":"65f4a2b8a17dd00d35893e85"},"nombre":"Camisa AngularJs","precio":433,"imagen":"bZFikqLOf.jpeg","__v":0}
+{"_id":{"$oid":"65f4a2d5a17dd00d3589437f"},"nombre":"Camisa ReactJs","precio":543,"imagen":"deY_CCo6L.jpeg","__v":0}
+{"_id":{"$oid":"65f4a2e9a17dd00d35894636"},"nombre":"Camisa Redux","precio":233,"imagen":"EBro1MKS4.jpeg","__v":0}
+{"_id":{"$oid":"65f4a2fca17dd00d358947c0"},"nombre":"Camisa NodeJs","precio":322,"imagen":"3L74u_rr5.jpeg","__v":0}
+{"_id":{"$oid":"65f4a30da17dd00d358949f7"},"nombre":"Camisa SASS","precio":344,"imagen":"rrOhZONTZ.jpeg","__v":0}
+{"_id":{"$oid":"65f4a321a17dd00d35894baf"},"nombre":"Camisa HTML","precio":233,"imagen":"MklhTFDLe.jpeg","__v":0}
+{"_id":{"$oid":"65f4a33ea17dd00d35894d15"},"nombre":"Camisa GitHub","precio":344,"imagen":"pmD3yjHr3.jpeg","__v":0}
+{"_id":{"$oid":"65f4a372a17dd00d35895e50"},"nombre":"Camisa TypeScript","precio":344,"imagen":"lXxq-_Ctz.jpeg","__v":0}
+{"_id":{"$oid":"65f4a385a17dd00d3589614c"},"nombre":"Camisa Drupal","precio":433,"imagen":"rAets4qWn.jpeg","__v":0}
+{"_id":{"$oid":"65f4a39aa17dd00d358962eb"},"nombre":"Camisa JavaScript","precio":433,"imagen":"VHoki2YGa.jpeg","__v":0}
