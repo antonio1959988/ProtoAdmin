@@ -16,6 +16,9 @@ mongoose.connect(process.env.DB_URL, {
 // Crear el servidor
 const app = express()
 
+// Especificar ruta estatica para los assets
+app.use(express.static('uploads'))
+
 // Habilitar body parser
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:true}))
@@ -36,13 +39,10 @@ const corsOptions = {
 }
 
 // Habilitar cors
-app.use(cors())
+app.use(cors(corsOptions))
 
 // Rutas de la app
 app.use('/', routes())
-
-// Especificar ruta estatica para los assets
-app.use(express.static('uploads'))
 
 const host = process.env.HOST || '0.0.0.0'
 const port = process.env.PORT || 5000
